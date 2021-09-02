@@ -1,0 +1,9 @@
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\bin\Debug\netstandard2.1\Tuesdays.Shared.deps.json
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\bin\Debug\netstandard2.1\Tuesdays.Shared.dll
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\bin\Debug\netstandard2.1\Tuesdays.Shared.pdb
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.csprojAssemblyReference.cache
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.AssemblyInfoInputs.cache
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.AssemblyInfo.cs
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.dll
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Shared\obj\Debug\netstandard2.1\Tuesdays.Shared.pdb

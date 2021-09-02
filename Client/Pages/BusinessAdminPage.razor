@@ -1,0 +1,89 @@
+@page "/businessadminpage"
+@using Tuesdays.Shared
+@inject HttpClient Http
+
+<div class="row">
+    <br>
+    <div class="col-lg-6 col-md-6 col-sm-12">
+        <h3>Add Business</h3>
+        <br>
+        <input type="text" @bind-value="newBusiness.Name" class="form-control mb-3" placeholder="Enter Name"/>
+        <input type="text" @bind-value="newBusiness.Link" class="form-control mb-3" placeholder="Enter Link"/>
+        <input type="text" @bind-value="newBusiness.Offer" class="form-control mb-3" placeholder="Enter Offer"/>
+        <button class="btn btn-block btn-primary" @onclick="SubmitBusiness">Submit</button>
+
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-12">
+        <h3>List of Businesses</h3>
+        <br>
+@if (businesses == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Link</th>
+                <th>Offer</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var business in businesses)
+            {
+                <tr>
+                    <td>@business.Id</td>
+                    <td>@business.Name</td>
+                    <td>@business.Link</td>
+                    <td>@business.Offer</td>
+                    <td>
+                        <button @onclick="@(()=>GetBusiness(@business.Id))" class="btn btn-sm btn-primary" >Edit</button>
+                    </td>
+                     <td>
+                        <button @onclick="@(()=>DeleteBusiness(@business.Id))" class="btn btn-sm btn-primary" >Delete</button>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+</div>
+</div>
+@code {
+    private Business[] businesses;
+    private bool edit = false;
+    private Business newBusiness = new Business();
+
+    protected override async Task OnInitializedAsync()
+    {
+        businesses = await Http.GetFromJsonAsync<Business[]>("api/business");
+    }
+    private async Task SubmitBusiness(){
+        if(edit == false){
+            await Http.PostAsJsonAsync<Business>("api/business",newBusiness);
+            await OnInitializedAsync();
+            newBusiness = new Business();
+        }else{
+            await Http.PutAsJsonAsync<Business>("api/business/"+newBusiness.Id,newBusiness);
+            await OnInitializedAsync();
+            edit = false;
+            newBusiness = new Business();
+        }
+    }
+    private async Task DeleteBusiness(int id){
+            await Http.DeleteAsync("api/business/"+id.ToString());
+            await OnInitializedAsync();
+    }
+    private async Task GetBusiness(int id){
+        newBusiness = await Http.GetFromJsonAsync<Business>("api/business/"+id.ToString());
+        edit = true;
+
+    }
+
+}
