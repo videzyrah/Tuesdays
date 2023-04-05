@@ -201,51 +201,43 @@ else
             __builder.OpenElement(48, "tr");
             __builder.AddMarkupContent(49, "\r\n                    ");
             __builder.OpenElement(50, "td");
-            __builder.AddContent(51, 
 #nullable restore
 #line 40 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\BusinessAdminPage.razor"
-                         business.Id
+__builder.AddContent(51, business.Id);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(52, "\r\n                    ");
             __builder.OpenElement(53, "td");
-            __builder.AddContent(54, 
 #nullable restore
 #line 41 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\BusinessAdminPage.razor"
-                         business.Name
+__builder.AddContent(54, business.Name);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(55, "\r\n                    ");
             __builder.OpenElement(56, "td");
-            __builder.AddContent(57, 
 #nullable restore
 #line 42 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\BusinessAdminPage.razor"
-                         business.Link
+__builder.AddContent(57, business.Link);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(58, "\r\n                    ");
             __builder.OpenElement(59, "td");
-            __builder.AddContent(60, 
 #nullable restore
 #line 43 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\BusinessAdminPage.razor"
-                         business.Offer
+__builder.AddContent(60, business.Offer);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(61, "\r\n                    ");
             __builder.OpenElement(62, "td");

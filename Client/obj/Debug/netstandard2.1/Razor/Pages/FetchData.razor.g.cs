@@ -125,51 +125,43 @@ else
             __builder.OpenElement(12, "tr");
             __builder.AddMarkupContent(13, "\r\n                    ");
             __builder.OpenElement(14, "td");
-            __builder.AddContent(15, 
 #nullable restore
 #line 28 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\FetchData.razor"
-                         forecast.Date.ToShortDateString()
+__builder.AddContent(15, forecast.Date.ToShortDateString());
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(16, "\r\n                    ");
             __builder.OpenElement(17, "td");
-            __builder.AddContent(18, 
 #nullable restore
 #line 29 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\FetchData.razor"
-                         forecast.TemperatureC
+__builder.AddContent(18, forecast.TemperatureC);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(19, "\r\n                    ");
             __builder.OpenElement(20, "td");
-            __builder.AddContent(21, 
 #nullable restore
 #line 30 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\FetchData.razor"
-                         forecast.TemperatureF
+__builder.AddContent(21, forecast.TemperatureF);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(22, "\r\n                    ");
             __builder.OpenElement(23, "td");
-            __builder.AddContent(24, 
 #nullable restore
 #line 31 "C:\Users\gstull1\Documents\Blazor\Tuesdays\Client\Pages\FetchData.razor"
-                         forecast.Summary
+__builder.AddContent(24, forecast.Summary);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.AddMarkupContent(25, "\r\n                ");
             __builder.CloseElement();

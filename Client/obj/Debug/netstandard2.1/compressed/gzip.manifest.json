@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3I763caShye-1XzitMPvhpdI0uFBZ0AV4Qf5DWAbsBA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XFq3z4Pa6Xcye3o80m6DJ0GBP_-zD_No4qVpP-jDD5Q=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tuesdays.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tuesdays.Client.dll.gz"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oCQYACEL3TGDC2eAJI-H5OUHOfZzdL29C0LgYhUZfJI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PrtmnqB7i29Z92iIell_sDm9S8dfe4wqvmlqFB4ddoE=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tuesdays.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tuesdays.Shared.dll.gz"
     },
@@ -266,12 +266,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oCI6HRlWB-CsWgjLHsJSsJB_PyBflf1E9ocJ_tf4_5g=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Q-ZvGnO8pmdnJYmZ5HMi-R_f9DvgcJMK47TOG__iVyw=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tuesdays.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tuesdays.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LBC_nvt8yaEznk4vxir7hAzLIqE-oEvwA09iUWYyGrE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VEPH1Ib1Iz7hW7V_MhGA-aBg8bUTcbeR5WN3Mw3vGa8=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tuesdays.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tuesdays.Shared.pdb.gz"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\axvg5wOXQzyjhiOCu4AkbG8--3Ftlzy3k2yEbrv_H0c=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cJ29AQLsv1Jq37QI8Y3bBtTmcV_QTAi8f-pV1Y6GXc4=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FB_H7y--sBAKdeDxjoFt7SPlIbpb35tpiXTwB9OboiA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mEE4nuBVWOEIoeZD8X42WYpDxb9NwKBkLuycnYfKMb8=.hash",
       "Source": "C:\\Users\\gstull1\\Documents\\Blazor\\Tuesdays\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-3I763caShye\/1XzitMPvhpdI0uFBZ0AV4Qf5DWAbsBA=",
+      "hash": "sha256-XFq3z4Pa6Xcye3o80m6DJ0GBP+\/zD+No4qVpP\/jDD5Q=",
       "url": "_framework\/_bin\/Tuesdays.Client.dll"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-oCQYACEL3TGDC2eAJI\/H5OUHOfZzdL29C0LgYhUZfJI=",
+      "hash": "sha256-PrtmnqB7i29Z92iIell+sDm9S8dfe4wqvmlqFB4ddoE=",
       "url": "_framework\/_bin\/Tuesdays.Shared.dll"
     },
     {
@@ -277,11 +277,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-oCI6HRlWB\/CsWgjLHsJSsJB+PyBflf1E9ocJ+tf4+5g=",
+      "hash": "sha256-Q\/ZvGnO8pmdnJYmZ5HMi\/R+f9DvgcJMK47TOG++iVyw=",
       "url": "_framework\/_bin\/Tuesdays.Client.pdb"
     },
     {
-      "hash": "sha256-LBC+nvt8yaEznk4vxir7hAzLIqE\/oEvwA09iUWYyGrE=",
+      "hash": "sha256-VEPH1Ib1Iz7hW7V+MhGA\/aBg8bUTcbeR5WN3Mw3vGa8=",
       "url": "_framework\/_bin\/Tuesdays.Shared.pdb"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-axvg5wOXQzyjhiOCu4AkbG8\/\/3Ftlzy3k2yEbrv+H0c=",
+      "hash": "sha256-cJ29AQLsv1Jq37QI8Y3bBtTmcV+QTAi8f\/pV1Y6GXc4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "jXuMg0Pg"
+  "version": "Z5t7k3WK"
 };

@@ -1,4 +1,3 @@
-C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Tuesdays.Client.StaticWebAssets.xml
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\appsettings.json
@@ -227,7 +226,6 @@ C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Tuesda
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Tuesdays.Shared.dll
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Tuesdays.Client.pdb
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\bin\Debug\netcoreapp3.1\Tuesdays.Shared.pdb
-C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.csprojAssemblyReference.cache
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.AssemblyInfoInputs.cache
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.AssemblyInfo.cs
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.csproj.CoreCompileInputs.cache
@@ -249,3 +247,5 @@ C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\static
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.dll
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.pdb
 C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.genruntimeconfig.cache
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.csproj.AssemblyReference.cache
+C:\Users\gstull1\Documents\Blazor\Tuesdays\Server\obj\Debug\netcoreapp3.1\Tuesdays.Server.GeneratedMSBuildEditorConfig.editorconfig
